@@ -1,0 +1,13 @@
+# Meta
+title: Coughlin Wedding
+email: kevintcoughlin+wedding@gmail.com
+description: >
+  Site for the wedding of Alison Ferro & Kevin Coughlin
+baseurl: ""
+url: "https://ferrocoughlin.com"
+twitter_username: kevintcoughlin
+github_username:  kevintcoughlin
+permalink: pretty
+
+# Build settings
+markdown: kramdown
