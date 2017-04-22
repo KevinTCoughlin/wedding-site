@@ -1,3 +1,17 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper,
+footer {
+    text-align: center;
+}
+
+.wrapper img {
+    width: 350px;
+}
+
 /**
  * Reset some basic elements
  */
@@ -7,8 +21,6 @@ dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
 }
-
-
 
 /**
  * Basic styling
