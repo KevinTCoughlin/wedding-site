@@ -1,0 +1,4 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+Made with love for Alison Ferro by Kevin Coughlin
