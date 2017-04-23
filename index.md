@@ -2,7 +2,6 @@
 layout: default
 ---
 
-![Alison and Kevin](/assets/alison_and_kevin.jpg)
 # Alison & Kevin Coughlin
 ## [RSVP](https://goo.gl/forms/YDsKYoe6TqK65y8F3){:target="_blank"}
 
