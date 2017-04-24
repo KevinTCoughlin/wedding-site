@@ -7,6 +7,7 @@ url: "https://www.ferrocoughlin.com"
 twitter_username: kevintcoughlin
 github_username:  kevintcoughlin
 permalink: pretty
+fb_app_id: "413937465645543"
 
 # Build settings
 markdown: kramdown
