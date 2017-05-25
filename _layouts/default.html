@@ -2,12 +2,11 @@
 <html lang="en" prefix="og: http://ogp.me/ns#">
   {% include head.html %}
   <body>
-    <div class="page-content">
-      <div class="wrapper">
+      <div class="container">
         {{ content }}
+        <hr/>
+        {% include footer.html %}
       </div>
-    </div>
-    {% include footer.html %}
     {% include analytics.html %}
   </body>
 </html>
