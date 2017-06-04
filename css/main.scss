@@ -3,16 +3,8 @@
 ---
 @charset "utf-8";
 
-// Custom
-.container {
-    padding: 28px;
-}
-
-a.btn:visited {
-    color: #fff;
-}
-
 // Our variables
+$header-font-family: 'Pacifico', cursive;
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
@@ -52,7 +44,19 @@ $on-laptop:        800px;
     }
 }
 
+// Custom
+h1, h2, h3, h4, h5, h6 {
+    color: #90AB76 !important;
+    font-family: $header-font-family !important;
+}
 
+.container {
+    padding: 28px;
+}
+
+a.btn:visited {
+    color: #fff;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

@@ -1,11 +1,15 @@
+.row {
+  margin-bottom: 28px; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #90AB76 !important;
+  font-family: "Pacifico", cursive !important; }
+
 .container {
   padding: 28px; }
 
 a.btn:visited {
   color: #fff; }
-
-.row {
-  margin-bottom: 28px; }
 
 html, body {
   height: 100%;
