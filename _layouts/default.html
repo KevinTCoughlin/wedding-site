@@ -7,5 +7,15 @@
         {% include footer.html %}
       </main>
     {% include analytics.html %}
+    <script>
+        (function () {
+            'use strict';
+            var $countdownEl = document.getElementById('countdown');
+            setInterval(function () {
+                var res = countdown(new Date("Aug 13 2017")).toString();
+                $countdownEl.innerText = res;
+            }, 1000)
+        })();
+    </script>
   </body>
 </html>
