@@ -1,32 +1,3 @@
-# Wedding Site
-
-## Overview
-Alison and I's wedding [website](https://ferrocoughlin.com).
-
-## Dependencies
-
-* Jekyll
-* Bundler
-* Ruby
-
-## Running the site locally
-
-```shell
-jekyll serve --incremental
-```
-
-## Building the site
-
-```shell
-jekyll build
-```
-
-## Issues
-
-Please report any issues or requests using [Github's](https://github.com/) [issue tracker](https://github.com/KevinTCoughlin/wedding-site/issues).
-
-## License
-
 The MIT License
 
 Copyright (c) 2017 Kevin T. Coughlin https://kevintcoughlin.com/
